@@ -18,6 +18,7 @@ By: @Alb3rtsonTL (Albertson Terrero López)
 6. [Predicción con Nuevos Datos](#predicción-con-nuevos-datos)
 
 ## Requisitos
+El script `requirements.txt` realiza los siguientes pasos:
 
 - Python 3.x
 - Pandas
